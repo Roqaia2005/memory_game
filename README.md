@@ -1,5 +1,6 @@
 # memory_game
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 memory game project
 >>>>>>> 583347ebd103553d36abb58b272cdc1a962024f3
+=======
+memory game project
+>>>>>>> 19099c62db564f727ec93a45757ba954917d8583
